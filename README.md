@@ -15,7 +15,7 @@ This project demonstrates static website hosting using AWS S3 and CloudFront.
 - Public access configuration
 
 ## Live Website
-Paste your CloudFront link here
+(https://d15syn849y4blx.cloudfront.net/)
 
 ## Architecture
 User → CloudFront → S3 Bucket
